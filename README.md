@@ -14,30 +14,29 @@ StaffTrack is a powerful employee management system designed to simplify HR oper
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
+### 1. Clone the repository:
    git clone https://github.com/yourusername/StaffTrack.git
-Set up your web server environment (e.g., Apache, Nginx) with PHP and MySQL.
+### Set up your web server environment (e.g., Apache, Nginx) with PHP and MySQL.
 
-Import the database schema from database/schema.sql into your MySQL database.
+### Import the database schema from database/schema.sql into your MySQL database.
 
-Configure the database connection settings in config/config.php.
+### Configure the database connection settings in config/config.php.
 
-Start the web server, and you're ready to use StaffTrack!
+   Start the web server, and you're ready to use StaffTrack!
 
-Usage
-Access StaffTrack through your web browser.
+### Usage
+   Access StaffTrack through your web browser.
 
-Log in using your administrator credentials.
+   Log in using your administrator credentials.
 
-Explore the dashboard and navigate through the various modules (attendance, tasks, performance, etc.).
+   Explore the dashboard and navigate through the various modules (attendance, tasks, performance, etc.).
 
-Customize settings and options according to your organization's needs.
+   Customize settings and options according to your organization's needs.
 
-Enjoy efficient and streamlined employee management with StaffTrack!
+   Enjoy efficient and streamlined employee management with StaffTrack!
 
-Contributing
+### Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License.
